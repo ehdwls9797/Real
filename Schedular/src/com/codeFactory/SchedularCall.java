@@ -12,7 +12,6 @@ public class SchedularCall {
 		System.out.println("!!!!");
 		
 	}
-	
 	// 스케쥴러......
 	// Spring Scheduler ,  Spring Quartz
 	
